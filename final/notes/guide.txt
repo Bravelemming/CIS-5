@@ -1,0 +1,15 @@
+
+
+sudo apt-get install sqlite3
+
+sudo apt-get update
+
+
+
+
+select * from STUFF
+
+that's exactly how to read information from tables.
+
+so an enquiry is literally an enquiry.  always.
+
